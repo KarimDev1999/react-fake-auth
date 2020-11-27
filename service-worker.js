@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-fake-auth/precache-manifest.16ed9639cefe27a27c3b43fdb3948f07.js"
+  "/react-fake-auth/precache-manifest.2cc86ea3a500f2fb0d8a7f470914447a.js"
 );
 
 self.addEventListener('message', (event) => {
