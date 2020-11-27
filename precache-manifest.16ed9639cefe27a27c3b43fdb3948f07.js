@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e70390764df6adf41f5a6692345f5917",
+    "revision": "d83029384944b82d28ce140d1f9deed5",
     "url": "/react-fake-auth/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-fake-auth/static/css/2.9c82a2bb.chunk.css"
   },
   {
-    "revision": "37274eb616568578b714",
+    "revision": "0b9fe631c99f7e6fd754",
     "url": "/react-fake-auth/static/css/main.6b395357.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-fake-auth/static/js/2.99e386dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37274eb616568578b714",
-    "url": "/react-fake-auth/static/js/main.6d88aba9.chunk.js"
+    "revision": "0b9fe631c99f7e6fd754",
+    "url": "/react-fake-auth/static/js/main.1825c68d.chunk.js"
   },
   {
     "revision": "34e77e8f2179397f6c50",

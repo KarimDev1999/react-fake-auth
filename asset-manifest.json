@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-fake-auth/static/css/main.6b395357.chunk.css",
-    "main.js": "/react-fake-auth/static/js/main.6d88aba9.chunk.js",
-    "main.js.map": "/react-fake-auth/static/js/main.6d88aba9.chunk.js.map",
+    "main.js": "/react-fake-auth/static/js/main.1825c68d.chunk.js",
+    "main.js.map": "/react-fake-auth/static/js/main.1825c68d.chunk.js.map",
     "runtime-main.js": "/react-fake-auth/static/js/runtime-main.9b90ba23.js",
     "runtime-main.js.map": "/react-fake-auth/static/js/runtime-main.9b90ba23.js.map",
     "static/css/2.9c82a2bb.chunk.css": "/react-fake-auth/static/css/2.9c82a2bb.chunk.css",
     "static/js/2.99e386dd.chunk.js": "/react-fake-auth/static/js/2.99e386dd.chunk.js",
     "static/js/2.99e386dd.chunk.js.map": "/react-fake-auth/static/js/2.99e386dd.chunk.js.map",
     "index.html": "/react-fake-auth/index.html",
-    "precache-manifest.cff0531a175685a03ad976748ba770e7.js": "/react-fake-auth/precache-manifest.cff0531a175685a03ad976748ba770e7.js",
+    "precache-manifest.16ed9639cefe27a27c3b43fdb3948f07.js": "/react-fake-auth/precache-manifest.16ed9639cefe27a27c3b43fdb3948f07.js",
     "service-worker.js": "/react-fake-auth/service-worker.js",
     "static/css/2.9c82a2bb.chunk.css.map": "/react-fake-auth/static/css/2.9c82a2bb.chunk.css.map",
     "static/css/main.6b395357.chunk.css.map": "/react-fake-auth/static/css/main.6b395357.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9c82a2bb.chunk.css",
     "static/js/2.99e386dd.chunk.js",
     "static/css/main.6b395357.chunk.css",
-    "static/js/main.6d88aba9.chunk.js"
+    "static/js/main.1825c68d.chunk.js"
   ]
 }
