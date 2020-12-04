@@ -1,3 +1,7 @@
+https://karimdev1999.github.io/react-fake-auth/
+
+Login: Admin, Password: 12345
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
